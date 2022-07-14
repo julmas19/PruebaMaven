@@ -5,7 +5,7 @@
 
 trigger:
 #El pipeline se ejecuta cuando haya un cambio en la rama especificada
-- main
+- azure-pipelines-pipe
 
 pool:
 #Donde se va aa ejecutar (Maquina virtual)
